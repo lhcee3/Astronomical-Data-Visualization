@@ -1,0 +1,4 @@
+This is a machine learning model and its colab link.
+Feel free to use and review.
+https://colab.research.google.com/drive/1tcu67Rc5bvI5w6-ExJMUoZqF07xBKVRh?usp=sharing
+
